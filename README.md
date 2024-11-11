@@ -10,11 +10,5 @@ My first repository
 
 ![alt text] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fscreenrant.com%2Fbig-bang-theory-show-cast-character-guide%2F&psig=AOvVaw0CWlwjngrxTT9XFZ8_iKOZ&ust=1731437268157000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODzoc_41IkDFQAAAAAdAAAAABAE)
 
-**Characters of Big Bang Theory (TV Series)**
-> blockquote
-| Penny | Bernadette | Amy |
-| --- | --- | --- | 
-| Sheldon | Leonard | Howard |
-| Raj | Wil | Priya |
+**Characters of the Big Bang Theory**
 
- 
