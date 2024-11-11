@@ -1,5 +1,5 @@
 # app-devv
-## Big Bang Theory (TV Series) 
+## The Big Bang Theory (TV Series) 
 
 My first repository
 
